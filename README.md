@@ -14,7 +14,7 @@ Interactive Data Visualization
 
 #Data source - Kaggle
 
-# Highlights - 
+#Highlights - 
 KPI-driven Power BI dashboard
 City, device, and transaction-type analysis
 Time-based revenue insights
